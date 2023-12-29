@@ -1,0 +1,23 @@
+section{
+	width:20%;
+border: 1px solid black;
+box-shadow:5px 5px 10px 2px grey;
+}
+img{
+	width:100%
+}
+h1{
+	margin:15px;
+}
+p{
+	font-weight:bold;
+	margin:15px;
+}
+button{
+	border:none;
+	color:white;
+	margin:15px;
+	background-color:grey;
+	width:90%;
+	height:30px;
+}
